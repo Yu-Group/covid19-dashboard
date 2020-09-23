@@ -8,3 +8,4 @@ keywords: "COVID19"
 
 markdown: kramdown
 exclude: ["LICENSE", "readme.md", "eda_raw_data"]
+theme: jekyll-theme-cayman
